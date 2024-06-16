@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alternative Site</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#lottery">All Lottery Games</a></li>
+        <li><a href="#wingo">WinGo</a></li>
+        <!-- Add more navigation items as needed -->
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="home" class="section">
+      <div class="container">
+        <h1>Welcome to Alternative Site</h1>
+        <p>This is a sample alternative design inspired by bdgwin.com.</p>
+      </div>
+    </section>
+
+    <section id="lottery" class="section">
+      <div class="container">
+        <h2>All Lottery Games</h2>
+        <p>List of lottery games can go here...</p>
+      </div>
+    </section>
+
+    <section id="wingo" class="section">
+      <div class="container">
+        <h2>WinGo</h2>
+        <p>Details about WinGo and its features...</p>
+      </div>
+    </section>
+    
+    <!-- Additional sections can be added for more content -->
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Alternative Site. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
